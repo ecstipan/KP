@@ -1,3 +1,4 @@
+<?php //this is just here for no reason ?>
 <!DOCTYPE html>
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->  
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->  
@@ -94,7 +95,7 @@
                         </div>
                         <p>
                             <a class="btn btn-cta btn-cta-primary" href="http://smarturl.it/KnowledgeDownloads" target="_blank">Download for Free</a>
-                            <button type="button" class="play-trigger btn-link " data-toggle="modal" data-target="#modal-video" data-backdrop="static" data-keyboard="false"><i class="fa fa-youtube-play"></i> Watch the video</b
+                            <button type="button" class="play-trigger btn-link " data-toggle="modal" data-target="#modal-video" data-backdrop="static" data-keyboard="false"><i class="fa fa-youtube-play"> Watch the video</button>
                         </p>
                     </div><!--//content-->
                     <figure class="figure col-md-7 col-sm-12 col-xs-12 col-md-offset-1 col-sm-offset-0 col-xs-offset-0">
