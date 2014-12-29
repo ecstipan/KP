@@ -69,7 +69,7 @@
     <section class="promo section section-on-bg">
         <div class="container text-center">                
             <h2 class="title">&#8220;Knowledge should be free<br>for those who truly seek it.&#8221;</h2>
-            <p class="intro">Join our community ot Producers, Mix Engineers, Artists, and DJs <br /> and spread the wealth of knowledge as we share and create.</p>
+            <p class="intro">Join our community of Producers, Mix Engineers, Artists, and DJs <br /> and spread the wealth of knowledge as we share and create.</p>
             <p><a class="btn btn-cta btn-cta-primary" href="#about">Get the KP Holiday Collection</a></p>
             <button type="button" class="play-trigger btn-link " data-toggle="modal" data-target="#modal-video" data-backdrop="static" data-keyboard="false"><i class="fa fa-youtube-play"></i> Watch the video</button>
         </div><!--//container-->
